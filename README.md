@@ -1,2 +1,3 @@
-# learningpyhton
-I am updating this repository as i am progressing into learing python.
+# learningpython
+My whole python journey is documented here along with the codes.
+Pyhton - My first Programming language.
